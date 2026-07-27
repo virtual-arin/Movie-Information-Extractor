@@ -78,21 +78,12 @@ movie-information-extractor/
 └── README.md
 ```
 
-## 📦 Requirements
+## 🔮 Future Improvements
 
-Install all required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-## 🙌 Acknowledgements
-
-- LangChain
-- Mistral AI
-- Streamlit
-- Pydantic
+- Export extracted data as CSV, Excel, or JSON
+- Support information extraction for books, TV shows, and documentaries
+- Allow users to edit extracted information before exporting
+- Add support for multiple languages
+- Use React + Fastapi instead of streamlit 
+- Deploy the application for public access
+- Support additional LLM providers such as OpenAI and Google Gemini
