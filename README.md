@@ -2,6 +2,10 @@
 
 A Streamlit application that uses **Mistral AI**, **LangChain**, and **Pydantic** to extract structured movie information from unstructured text.
 
+## 🍿 Business Domain
+
+Media & Entertainment
+
 ## 📌 Problem Statement
 
 Movie details are often written as long paragraphs, making it difficult to extract key information like the title, genre, director, cast, rating, and summary manually.
